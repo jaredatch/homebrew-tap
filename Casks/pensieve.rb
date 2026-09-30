@@ -2,8 +2,8 @@
 # frozen_string_literal: true
 
 cask "pensieve" do
-  version "0.13.0"
-  sha256 "4d207f97642ebb17212461e49fedcf3fdb7c47e52505fa670aa62006e5799b1d"
+  version "0.14.0"
+  sha256 "c5366155057e8965e6983e721ea5ffc3da45172c9ecd77a0a17545d71a91688b"
 
   url "https://github.com/jaredatch/pensieve/releases/download/v#{version}/Pensieve-#{version}.dmg"
   name "Pensieve"
