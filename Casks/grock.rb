@@ -2,8 +2,8 @@
 # frozen_string_literal: true
 
 cask "grock" do
-  version "1.0.2"
-  sha256 "7fc1e14e86db04cc08d7fafbdbb1a53413a36e93edcfd65963249233a1710e0c"
+  version "1.0.3"
+  sha256 "189e030f137f424a132cd2b037016389bbefbeff9e17e95c06a1f670e3bd934a"
 
   url "https://github.com/jaredatch/grock/releases/download/v#{version}/Grock-#{version}-arm64.zip"
   name "Grock"
